@@ -3,3 +3,9 @@
     background-color:red;
     text-align: center;
 }
+.starting{
+    display: flex;
+}
+#centre-text{
+    text-align: center;
+}
