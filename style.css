@@ -62,22 +62,38 @@ body{
     margin: 100px;
     padding: 15px;
 }
+.link-modification{
+    color: black;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(177, 177, 148), purple);
+    border-radius: 10px;
+    padding: 10px 25px;
+}
 #adding-background{
     background-image: url(Frame\ 59.jpg);
 }
-#centre-text{
-    text-align: center;
+#centre-text1{
+    text-align:center;
     padding: 10px;
 }
+#centre-text2{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 .box-shadow-part{
-    text-align: justify;
-    box-shadow: 5px 2px 5px black;
+    box-shadow: 2px 2px 25px rgba(212, 202, 202, 0.897);
     margin: 50px;
     border-radius: 10px;
 }
 .box-section-pic{
     text-align: center;
     padding-top: 15px;
+    padding-bottom: 5px;
+}
+.box-text-format{
+    padding: 10px;
+
 }
 #giving-arrangment{
     display: flex;
@@ -103,4 +119,13 @@ footer{
 }
 #footer-part{
     color: tomato;
+}
+#experiment{
+    color: yellow;
+    background-image: linear-gradient(red green);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    border: blanchedalmond;
+
 }
