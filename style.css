@@ -25,7 +25,7 @@ body{
     
 }
 #change-color4{
-    color: darkcyan;
+    color: rgb(0, 255, 255);
     
 }
 
@@ -33,16 +33,17 @@ body{
     text-align: center;
 }
 #colourfull-font1{
-    color: skyblue;
+    color: rgb(0, 0, 139);
     font-weight: 600;
 
 }
 #colourfull-font2{
-    color: black;
+    color:rgb(63, 32, 92);
+    font-weight: 600;
     
 }
 #colourfull-font3{
-    color: darkgreen;
+    color:rgb(0, 100, 0);
     font-weight: 600;
     
 }
@@ -51,11 +52,12 @@ body{
     margin: 10px;
 }
 #section-font{
-    color: rgb(64, 5, 119);
+    color: rgb(255, 69, 0);
 }
 .section-font-arranging{
     padding: 20px;
     margin: 10px;
+    text-align: justify;
 }
 .giving-flexiable{
     display: flex;
@@ -65,7 +67,7 @@ body{
 .link-modification{
     color: black;
     text-decoration: none;
-    background-image: linear-gradient(rgb(177, 177, 148), purple);
+    background-image: linear-gradient(green,rgb(253, 253, 253),rgb(243, 12, 12));
     border-radius: 10px;
     padding: 10px 25px;
 }
@@ -95,7 +97,7 @@ body{
     padding: 10px;
 
 }
-#giving-arrangment{
+#giving-boxing-part{
     display: flex;
     padding: 2px;
     margin-left: 20px;
@@ -105,27 +107,17 @@ body{
     border-radius: 15px;
 }
 
-.arrange{
-
+.arrange-boxing-part{
     padding: 20px;
    margin-left: 120px;
    margin-right: 120px;
 }
 footer{
-    background-color: green;
+    background-color: rgb(8, 139, 8);
     text-align: center;
     padding: 30px;
     margin: 2px;
 }
 #footer-part{
-    color: tomato;
-}
-#experiment{
-    color: yellow;
-    background-image: linear-gradient(red green);
-    padding: 10px;
-    border-radius: 10px;
-    text-align: center;
-    border: blanchedalmond;
-
+    color: red;
 }
