@@ -1,21 +1,83 @@
+body{
+    padding: 0;
+    margin: 0;
+}
 #opening-portion
 {
-    background-color:red;
+    background-color:black;
     text-align: center;
+    padding: 30px;
     margin: 20px;
+    border-radius: 10px;
 }
-.starting{
+
+#change-color1{
+    color: red;
+
+}
+#change-color2{
+    color: chartreuse;
+    
+}
+
+#change-color3{
+    color:royalblue;
+    
+}
+#change-color4{
+    color: darkcyan;
+    
+}
+
+.additional-portion{
+    text-align: center;
+}
+#colourfull-font1{
+    color: skyblue;
+    font-weight: 600;
+
+}
+#colourfull-font2{
+    color: black;
+    
+}
+#colourfull-font3{
+    color: darkgreen;
+    font-weight: 600;
+    
+}
+#additional-text{
+    padding: 20px;
+    margin: 10px;
+}
+#section-font{
+    color: rgb(64, 5, 119);
+}
+.section-font-arranging{
+    padding: 20px;
+    margin: 10px;
+}
+.giving-flexiable{
     display: flex;
     margin: 100px;
+    padding: 15px;
+}
+#adding-background{
+    background-image: url(Frame\ 59.jpg);
 }
 #centre-text{
     text-align: center;
+    padding: 10px;
 }
 .box-shadow-part{
     text-align: justify;
     box-shadow: 5px 2px 5px black;
     margin: 50px;
     border-radius: 10px;
+}
+.box-section-pic{
+    text-align: center;
+    padding-top: 15px;
 }
 #second-opening{
     margin: 100px;
@@ -30,7 +92,17 @@
 .arrange{
     margin-left: 180px;
 }
-.im-part{
+
+footer{
     text-align: center;
-    padding-top: 20px;
+    background-color: cyan;
+    padding: 50px;
+    margin: 50px;
+}
+#footer-part{
+    color: red;
+}
+#adding-img1{
+    background-color: darkblue;
+
 }
