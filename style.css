@@ -79,30 +79,28 @@ body{
     text-align: center;
     padding-top: 15px;
 }
-#second-opening{
-    margin: 100px;
-}
-#flexible{
+#giving-arrangment{
     display: flex;
-    box-shadow: 1px 3px 8px black;
-    margin: 100px;
-    border-radius: 10px;
-    
-}
-.arrange{
-    margin-left: 180px;
+    padding: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin: 50px;
+    box-shadow: 5px 5px 30px rgba(49, 71, 24, 0.397);
+    border-radius: 15px;
 }
 
+.arrange{
+
+    padding: 20px;
+   margin-left: 120px;
+   margin-right: 120px;
+}
 footer{
+    background-color: green;
     text-align: center;
-    background-color: cyan;
-    padding: 50px;
-    margin: 50px;
+    padding: 30px;
+    margin: 2px;
 }
 #footer-part{
-    color: red;
-}
-#adding-img1{
-    background-color: darkblue;
-
+    color: tomato;
 }
